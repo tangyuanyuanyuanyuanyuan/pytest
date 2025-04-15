@@ -1,0 +1,4 @@
+测试用例执行
+{'createBy': 'admin', 'createTime': '2025-03-04 19:53:19', 'updateBy': None, 'updateTime': None, 'remark': None, 'userId': 189, 'deptId': None, 'userName': '123', 'nickName': 'C3j8V0', 'email': '', 'phonenumber': '', 'sex': '0', 'avatar': '', 'password': '$2a$10$mhPqthpLCJ0hit/XI.HsBeyJDd1FmKo402zNOK5g.wAY2uil49Ftm', 'status': '0', 'delFlag': '2', 'loginIp': '', 'loginDate': None, 'dept': None, 'roles': [], 'roleIds': None, 'postIds': None, 'roleId': None, 'admin': False}
+{'msg': "修改用户'123'失败，登录账号已存在", 'code': 500}
+end of the test process

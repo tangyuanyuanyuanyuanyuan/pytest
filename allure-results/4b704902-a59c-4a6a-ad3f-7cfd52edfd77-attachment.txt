@@ -1,0 +1,5 @@
+测试用例执行
+{'userName': 'nJgH7s', 'nickName': 'wdKhzO', 'password': '123456', 'status': '0', 'postIds': [], 'roleIds': []}
+{'Content-Type': 'application/json', 'Authorization': 'Bearer  eyJhbGciOiJIUzUxMiJ9.eyJsb2dpbl91c2VyX2tleSI6ImM5MDlhNWI2LTc0YjctNGU3NC1iODkyLWNiNzc1OTZmZDBmZiJ9.XXwD2bhBiLhtJ97D-HGdOgIYSWR3Hq8eZYU_pQvE0RlnqZVmm5sMrIV8I30RMXe883DgnNDwwIL_EKXlIxXdNA'}
+{'msg': '操作成功', 'code': 200}
+end of the test process

@@ -1,0 +1,4 @@
+测试用例执行
+{'createBy': 'admin', 'createTime': '2025-03-30 19:56:27', 'updateBy': None, 'updateTime': None, 'remark': None, 'userId': 204, 'deptId': None, 'userName': '38248041786417', 'nickName': 'rXVeKM', 'email': '', 'phonenumber': '', 'sex': '0', 'avatar': '', 'password': '$2a$10$5/AlrCt6IMrDdUx54ffYaunKrehSP2QVFjSfy/I/o95H2e1fBR/Pm', 'status': '0', 'delFlag': '0', 'loginIp': '', 'loginDate': None, 'dept': None, 'roles': [], 'roleIds': None, 'postIds': None, 'roleId': None, 'admin': False}
+{'msg': '操作成功', 'code': 200}
+end of the test process

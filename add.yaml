@@ -1,0 +1,11 @@
+url: http://62.234.166.117/prod-api/system/user
+data:
+  userName: xznb
+  nickName: saba
+  password: '123456'
+  status: '0'
+  postIds: []
+  roleIds: []
+header:
+  Content-Type: application/json
+  Authorization: Bearer  eyJhbGciOiJIUzUxMiJ9.eyJsb2dpbl91c2VyX2tleSI6ImQ0YzJmYWE2LWI3YTQtNDljMy04MWU4LWFiMjc3ODIyMWU2YiJ9.chY0Koc6t8aFfvh_irfb35VtweO2SePhIxfKyRlVLEePlYs29IBNQ5_hHBNAR9mLcVl63a8lRAW8SAQUzXb-7Q

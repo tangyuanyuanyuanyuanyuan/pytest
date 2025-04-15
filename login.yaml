@@ -1,0 +1,6 @@
+url: http://62.234.166.117/prod-api/login
+data:
+  username: admin
+  password: admin123
+header:
+  Content-Type: application/json
